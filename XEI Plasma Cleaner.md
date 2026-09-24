@@ -39,14 +39,13 @@ The function of each item is as follows:
 5. Wait for pressure to drop to 400mTorr. 
 
 ### Executing a plasma cleaning recipe
-1. Make sure the plasma controller is ![powered on](images/XEI-Plasma-Cleaner/front-panel.png). 
+1. Make sure the plasma controller is powered on. ![front-panel](images/XEI-Plasma-Cleaner/front-panel.png). 
 2. Once the chamber is pumped down to 400mTorr, on the touchpanel, navigate to the home screen, which looks like ![this](images/XEI-Plasma-Cleaner/touch-panel.png)
 3. You can open the process page to configure your process manually, but it is more convenient to load a pre-existing recipe. 
-4. If you load a pre-configured recipe, you will see the following![screen](images/XEI-Plasma-Cleaner/recipes.png)
-
+4. If you load a pre-configured recipe, you will see the following:![screen](images/XEI-Plasma-Cleaner/recipes.png)
 The highlighted recipe is the currently selected recipe. Choose the recipe you want to execute, and press the "Load" button. 
 5. Operation is then switched to the Process display with the new recipe that has been
-selected included and ready for execution. ![process](images/XEI-Plasma-Cleaner/process.png), where you can press the run button. 
+selected included and ready for execution, where you can press the run button. ![process](images/XEI-Plasma-Cleaner/process.png)
 6. Once the recipe is completed, follow the protocol to vent the chamber. 
 7. Remove your sample or TEM holder from the chamber. 
 8. Re-insert all plugs into the chamber, and follow the process to pump down the chamber. 
